@@ -1,1 +1,1 @@
-quay.io/ascend/cann:8.0.rc3.beta1-910b-ubuntu22.04-py3.10
+ghcr.io/ggerganov/llama.cpp:full
