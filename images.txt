@@ -1,1 +1,1 @@
-python:3.10.16-slim-bullseye
+--platform=linux/arm64 quay.io/ascend/vllm-ascend:latest
