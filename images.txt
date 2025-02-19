@@ -1,1 +1,1 @@
---platform=linux/arm64 quay.io/ascend/vllm-ascend:latest
+justsong/one-api
