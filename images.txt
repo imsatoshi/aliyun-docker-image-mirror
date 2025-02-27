@@ -1,1 +1,1 @@
-swanchain254/vllm-trust:latest
+lmcache/vllm-openai:2025-02-26
