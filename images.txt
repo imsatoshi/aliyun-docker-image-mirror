@@ -1,1 +1,1 @@
-cooderl/wewe-rss-server:latest
+gpustack/gpustack:v0.5.1
