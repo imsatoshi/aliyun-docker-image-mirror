@@ -1,1 +1,2 @@
 gpustack/gpustack:v0.5.1
+lmsysorg/sglang:v0.4.4-cu125
