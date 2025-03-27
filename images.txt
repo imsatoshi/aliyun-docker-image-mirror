@@ -1,2 +1,1 @@
-gpustack/gpustack:v0.5.1
-lmsysorg/sglang:v0.4.4-cu125
+pytorch/pytorch:2.5.0-cuda12.4-cudnn9-devel
