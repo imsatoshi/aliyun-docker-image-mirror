@@ -1,1 +1,2 @@
 alterem/kube-proxy:v1.23.15
+registryk8s/k8s-dns-node-cache:1.15.12
