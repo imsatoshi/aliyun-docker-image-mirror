@@ -1,1 +1,1 @@
-xprobe/xinference:v1.5.0.post2-cpu
+vllm/vllm-openai:v0.8.5
