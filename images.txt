@@ -1,7 +1,1 @@
-nvcr.io/nvidia/cloud-native/gpu-operator-validator:v25.3.0
-nvcr.io/nvidia/cloud-native/k8s-mig-manager:v0.12.1-ubuntu20.04
-nvcr.io/nvidia/cloud-native/gpu-operator-validator:v25.3.0
-nvcr.io/nvidia/k8s-device-plugin:v0.17.1
-nvcr.io/nvidia/k8s/dcgm-exporter:4.1.1-4.0.4-ubuntu22.04
-nvcr.io/nvidia/k8s/container-toolkit:v1.17.5-ubuntu20.04
-registry.k8s.io/nfd/node-feature-discovery:v0.17.2
+huggingface/peft-gpu:latest
