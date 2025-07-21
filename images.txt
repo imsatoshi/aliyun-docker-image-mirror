@@ -1,1 +1,1 @@
-huggingface/peft-gpu:latest
+verlai/verl:app-verl0.4-vllm0.8.5-mcore0.12.2-te2.2
